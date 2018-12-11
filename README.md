@@ -5,7 +5,7 @@ Tweets were collected using the codes in here https://github.com/DisasterMasters
 
 The jupyter notebook LDA_Topic_Modeling.ipynb contains the codes for LDA topic modeling.
 
-Twitter_DisasterAnalysis.pdf contains the final report of this project. 
+Twitter_DisasterAnalysis_finalReport.pdf contains the final report of this project. 
 
 
 
