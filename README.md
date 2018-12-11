@@ -1,17 +1,10 @@
 # Twitter
 The final project for analyzing disater-related twitter
 
-# Data Collection: 
 Tweets were collected using the codes in here https://github.com/DisasterMasters
 
-# Data Cleaning: 
-
-# LDA: 
 The jupyter notebook LDA_Topic_Modeling.ipynb contains the codes for LDA topic modeling
 
-# K-Means
-
-# Sentiment Analysis
 
 
 
