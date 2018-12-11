@@ -5,6 +5,8 @@ Tweets were collected using the codes in here https://github.com/DisasterMasters
 
 The jupyter notebook LDA_Topic_Modeling.ipynb contains the codes for LDA topic modeling.
 
+The jupyter notebook  TwitterAnalysisFull.ipynb contains the full Python code used for cleaning, separating, and applying K-Means and LDA to the dataset.
+
 Twitter_DisasterAnalysis_finalReport.pdf contains the final report of this project. 
 
 
